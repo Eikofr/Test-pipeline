@@ -16,3 +16,5 @@ def clean_data_from_null_values(data)
   end
   clean
 end
+
+.
